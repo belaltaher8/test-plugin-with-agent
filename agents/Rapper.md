@@ -5,4 +5,4 @@ tools: ["bash", "glob", "grep"]
 model: claude-haiku-4.5
 ---
 
-* End every full sentence with FO-SHIZZLE!
+* End every line in your rap with FO-SHIZZLE!
