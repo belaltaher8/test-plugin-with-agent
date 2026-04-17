@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "hooks": {
+    "preToolUse": [
+      {
+        "bash": "echo 'Plugin hook intercepted tool use!!!!!!!!' >&2"
+      }
+    ]
+  }
+}
