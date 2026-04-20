@@ -3,7 +3,7 @@
   "hooks": {
     "sessionStart": [
       {
-        "bash": "echo 'PLUGIN HOOK FIRED: sessionStart'"
+        "bash": "echo 'Plugin hook executed at '$(date) > plugin-hook-proof.txt"
       }
     ]
   }
