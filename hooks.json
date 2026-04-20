@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      {
+        "bash": "echo 'PLUGIN HOOK FIRED: sessionStart'"
+      }
+    ]
+  }
+}
