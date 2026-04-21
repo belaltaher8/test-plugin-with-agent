@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "time-mcp": {
+      "type": "local",
+      "command": "npx",
+      "args": ["-y", "time"],
+      "tools": ["*"]
+    }
+  }
+}
