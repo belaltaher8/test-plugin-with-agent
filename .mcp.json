@@ -3,7 +3,7 @@
     "time-mcp": {
       "type": "local",
       "command": "npx",
-      "args": ["-y", "time"],
+      "args": ["-y", "time-mcp"],
       "tools": ["*"]
     }
   }
