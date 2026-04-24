@@ -3,7 +3,7 @@
     "time-mcp": {
       "command": "npx",
       "args": ["-y", "time-mcp"],
-      "tools": ["*"],
+      "tools": ["*"]
     }
   }
 }
