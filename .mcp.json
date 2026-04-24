@@ -2,7 +2,7 @@
   "mcpServers": {
     "time-mcp": {
       "command": "npx",
-      "args": ["-y", "time-mcp"],
+      "args": ["-y", "time-mcp"]
     }
   }
 }
